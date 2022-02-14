@@ -1,0 +1,292 @@
+.App {
+   /* margin-top: -15px; */
+   box-sizing: border-box;
+   width: 100%;
+}
+
+ 
+
+ 
+.pa-text {
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 60px;
+  margin-bottom: 10%;
+  padding-left: 60px;
+ 
+}
+
+.label-text{
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 50px;
+  margin-bottom: 10%;
+  padding-left: 50px;
+}
+ 
+
+.eco-friendly {
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+  color: #f0ab00;
+}
+
+.label-eco-friendly{
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 68px;
+  color: #f0ab00;
+}
+.content-para {
+  margin-bottom: 10%;
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #131313;
+  padding-left: 60px;
+}
+.label-content-para {
+  margin-bottom: 26%;
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 25px;
+  color: #131313;
+  padding-left: 50px;
+}
+
+#form-content-para {
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 25px;
+  color: #131313;
+  padding-left: 50px;
+}
+
+ 
+
+.image {
+  object-fit: cover; 
+  position: absolute;
+  width: 780px;
+  height: 700px;
+  margin-left: 80px;
+  margin-top: 50px;
+  /* left: -290px; */
+}
+
+.bike-man{
+  left: 829px;
+  object-fit: cover; 
+  padding: absolute;
+}
+
+.layer-two{
+  /* background: #FFFFFF; */
+}
+
+.layer-two-header {
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 60px;
+  margin-bottom: 8%;
+  margin-left: 4%;
+}
+.mobility {
+  color: #f0ab00;
+}
+.carbon {
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 34px;
+  color: #131313;
+}
+
+.carbon-2 {
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 28px;
+  color: #131313;
+  margin-top: 35px;
+}
+
+.content-box{
+  margin-top: 0;
+  padding-bottom: 15%;
+  background:rgb(245, 242, 242);
+}
+
+.header-layer{
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-top: 5%;
+   background:rgb(245, 242, 242);
+}
+
+.form{
+  background-color:white;
+}
+
+.form-de{
+  background: #E5E5E5;
+}
+
+.form-header-text{
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 45px;
+  color: #131313;
+}
+
+ #form-header{
+   margin-top: 5%;
+  margin-left: 50px;
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 45px;
+  color: #131313;
+ }
+.form-content-para{
+  margin-left: 10%;
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #828282;
+}
+
+.form-field{
+  margin-left: 5%;
+}
+
+.text-field{
+  border: none;
+  background: #F9F9F9;
+}
+.text-button{
+  background: #553399;
+  border-radius: 3px;
+}
+ 
+ 
+.footer {
+  padding: 50px;
+  position: relative;
+  height: 350px;
+  left: 0px;
+  margin-top: 10%;
+  background: #1a1721;
+}
+.footer-header {
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 34px;
+  color: #ffffff;
+}
+
+.footer-para {
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #8b8b8c;
+}
+
+.footer-copyright {
+  margin-top: 5%;
+  text-align: center;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+}
+.footer-icon {
+  border-radius: 50;
+}
+
+.footer-icons {
+  margin-left: 10%;
+  margin-top: 40px;
+}
+
+.par-app-store{
+  margin-top: 40px;
+}
+
+.app-store-logo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+}
+.google-play {
+  width: 80px;
+}
+
+.change {
+  margin-left: 8%;
+ 
+}
+
+.header-content{
+    margin-left : 5%;
+    margin-right : 5%;
+    background:rgb(245, 242, 242);
+   
+}
+
+.ultimate-change {
+  border-left: 6px solid rgb(179, 172, 172);
+  margin-left: -20%;
+   
+}
+li{
+  list-style: none;
+  transition: all 0.5s ease;
+  cursor: pointer;
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 40px;
+  color: #131313;
+  margin-bottom: 20%;
+   padding-left: 10%;
+   margin-left: -39px;
+}
+
+.active{
+   border-left: 8px solid rgb(105, 8, 137);
+}
+
+ 
+    

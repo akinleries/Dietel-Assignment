@@ -1,0 +1,46 @@
+.header-layer{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header-wait-button{
+    background:#553399;
+    border-radius:5px;
+    color: #fff;
+    padding: 15px;
+}
+
+.header-text{
+    font-family: Michroma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: #131313;
+}
+
+.header-button{
+    display: flex;
+    align-items: center; 
+}
+
+.button{
+    text-decoration: none;
+    font-family: Mohave;
+    background: #553399;
+    padding: 15px;
+    color: #fff;
+    border-radius: 3px; 
+}
+
+.button:hover{
+     text-decoration: none;
+    font-family: Mohave;
+    background: #553399;
+    padding: 15px;
+    color: #fff;
+    border-radius: 3px; 
+}
+
+
+    
